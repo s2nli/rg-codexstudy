@@ -1,0 +1,9 @@
+{
+  "apiBase": "https://rgvikproxy.vercel.app/api",
+  "useProxy": true,
+  "batchesEndpoint": "/courses",
+  "user": 0,
+  "timeoutMs": 7000,
+  "playerBase": "https://player.classx.co.in/secure-player?token=",
+  "pdfViewerBase": "https://pdfweb.classx.co.in/pdfjs/web/viewer-new.html?file="
+}
